@@ -44,5 +44,6 @@
 ### 수행 예시
 
 <p align="center"><img width="600" src="https://github.com/jmKim02/Algorithm-problem-solving/assets/174222202/fac32d8a-12a7-42a9-950a-a80af3225d71">
+<p align="center"><img width="600" src="https://github.com/jmKim02/Algorithm-problem-solving/assets/174222202/d21404ac-85f3-4639-9044-02d57e770c65">
 
 <br/>
