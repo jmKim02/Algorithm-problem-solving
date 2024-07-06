@@ -18,4 +18,27 @@
 
 ### Sudo Code
 
-![image](https://github.com/jmKim02/Algorithm-problem-solving/assets/174222202/7a7519d5-7b9e-4b27-acc3-01d79b599285)
+<p align="center"><img width="600" src="https://github.com/jmKim02/Algorithm-problem-solving/assets/174222202/7a7519d5-7b9e-4b27-acc3-01d79b599285">
+
+<br/>
+
+### 초기화
+1. 시작 노드를 선택하고, 그 노드의 거리를 0으로 설정
+2. 다른 모든 노드의 거리는 무한대로 설정
+3. 시작 노드를 현재 노드로 설정하고, 이 노드를 방문한 노드로 표시
+
+<br/>
+
+### 알고리즘 수행
+1. 현재 노드에서 인접한 모든 노드에 대해 거리를 계산
+2. 계산된 거리와 현재 저장된 거리를 비교하여 더 작은 값으로 업데이트
+3. 방문하지 않은 노드 중에서 가장 작은 거리를 가진 노드를 선택하여 다음 현재 노드로 설정
+4. 모든 노드를 방문할 때까지 이 과정을 반복
+
+<br/>
+
+### 수행 예시
+
+<p align="center"><img width="600" src="https://github.com/jmKim02/Algorithm-problem-solving/assets/174222202/fac32d8a-12a7-42a9-950a-a80af3225d71">
+
+<br/>
