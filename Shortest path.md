@@ -3,7 +3,7 @@
 > 💡출발 정점 s로부터 다른 모든 정점까지의 최단경를 구할 수 있다.<br/>
 <br/>
 
-> 다익스트라 활용 문제: [백준 1916번](https://github.com/jmKim02/ComputerNetworking_A-Top-Down-Approach/blob/main/Chapter%201%20/1.0%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80%20%EC%9D%B8%ED%84%B0%EB%84%B7.md)
+> 다익스트라 활용 문제: [백준 1916번](https://github.com/jmKim02/Algorithm-problem-solving/tree/24ff7b22b63eb2f4372844af28af2ce48c9eb3f1/Graph_Theory%20/G1916%20)
 
 <br/>
 
