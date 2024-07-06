@@ -15,10 +15,6 @@
 |7|0|0|0|0|0|0|0|0|0|0|
 
 <br/>
-
-## public static class Graph
-- private boolean value<br/>
-- private boolean visited<br/>
 <br/>
 방문한 적이 없고, 배추가 심어져 있는 위치들로부터만 탐색 시작<br/>
 -> 상 하 좌 우를 모두 탐색하며 방문한 위치를 표시하며 count.
