@@ -3,7 +3,8 @@
 > 💡출발 정점 s로부터 다른 모든 정점까지의 최단경를 구할 수 있다.<br/>
 <br/>
 
-> 다익스트라 활용 문제: [백준 1916번 최소비용 구하기](https://github.com/jmKim02/Algorithm-problem-solving/tree/24ff7b22b63eb2f4372844af28af2ce48c9eb3f1/Graph_Theory%20/G1916%20)
+> 다익스트라 활용 문제: [백준 1916번 최소비용 구하기](https://github.com/jmKim02/Algorithm-problem-solving/tree/24ff7b22b63eb2f4372844af28af2ce48c9eb3f1/Graph_Theory%20/G1916%20)<br/>
+> 다익스트라 활용 문제2: [백준 1753번 최단경로](https://github.com/jmKim02/Algorithm-problem-solving/tree/24ff7b22b63eb2f4372844af28af2ce48c9eb3f1/Graph_Theory%20/G1916%20)<br/>
 
 <br/>
 
